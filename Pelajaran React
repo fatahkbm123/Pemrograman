@@ -1,0 +1,51 @@
+Framework Javacript yang ingin saya pelajari ( React )
+1. Basic
+ - Javaccript Fundamentals
+   Basic Syntaks
+   Variable
+   Arrays & Object Literals
+   Events
+   Function, loops, conditional
+
+ - Promises / Asyncronous Request 
+   Learn how to create and recieve promises
+   Standard .then() and .catch() syntax
+   Async / Await is optional but recommended
+   Learn the Fetch API for making HTTP request
+   
+ - Desctructuring
+   Unpack value from objects and arrays. Used a ton in framework and makes for cleaner and more readable code
+   let obj = {
+    name : 'Fatah'
+    age : 17
+   };
+   
+   use Desctructuring becomes
+   const {name , age} = obj;
+   console.log(name, age);
+   
+ - Concept of Components & State
+   UI are broken up into individual components of which have some sort of state associated with them.
+     
+   Each component can have it's own data & state of being
+   We also have application level state, usually implemented using a state manager like Redux, Vuex, etc
+   Nested components (Parent & Children)
+   Can be directly or used in a router
+   
+ - Spread Operator (...)
+   State is usually immutable, meaning we can not simply change it, we need to make copy. The spread operator allows us to do that.
+   
+   const userState = {
+    name : 'John'
+   };
+   
+   const newUserstate = {
+    ...userState, // name : 'John'
+    age : 30   
+   }
+   
+   
+   
+   
+
+ 
