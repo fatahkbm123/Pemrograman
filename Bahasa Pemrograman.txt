@@ -1,0 +1,18 @@
+Bahasa yang telah saya Pelajari
+
+1. Basic
+ - HTML5
+ - CSS3 (Boostsrap)
+ - Javascript
+ - Ajax
+ 
+2. Back End (CRUD + SYSTEM LOGIN)
+ - PHP Native
+ - PHP OOP
+ - PHP MVC
+ - PHP Framework (Code Igniter v.3)
+ 
+3. Outside of that
+ - Snipet VSC
+ - Github
+ - Git
